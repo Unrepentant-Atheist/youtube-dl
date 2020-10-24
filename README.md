@@ -1,4 +1,4 @@
-# Nah man, yer DMCA ain't gon' do shite here, bruv! Now git the fuck of me lawn!
+# Nah man, yer DMCA ain't gon' do shite here, bruv! <https://www.law.cornell.edu/supremecourt/text/464/417> , now git the fuck of me lawn!
 
 [![Build Status](https://travis-ci.org/ytdl-org/youtube-dl.svg?branch=master)](https://travis-ci.org/ytdl-org/youtube-dl)
 
